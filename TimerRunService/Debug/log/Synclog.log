@@ -1,0 +1,207 @@
+02/19/14 16:36:25 [7312]Invalid: ******Enter MainFunc！****** at 63 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:25 [7312]Invalid: 开始获取服务器文件列表！ at 167 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:26 [7312]Error: 检查目录/0成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:27 [7312]Error: 检查目录/1成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:27 [7312]Error: 检查目录/100成功！ 文件个数：19 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:28 [7312]Error: 检查目录/2成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:31 [7312]Error: 检查目录/3成功！ 文件个数：7790 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:32 [7312]Error: 检查目录/4成功！ 文件个数：7788 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:33 [7312]Error: 检查目录/5成功！ 文件个数：27 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:33 [7312]Error: 检查目录/6成功！ 文件个数：1733 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:34 [7312]Error: 检查目录/7成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:36 [7312]Error: 检查目录/99成功！ 文件个数：25451 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:37 [7312]Error: 检查目录/CaiBian4.0/6成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:37 [7312]Error: 检查目录/CaiBian4.0/99成功！ 文件个数：66 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:37 [7312]Invalid: 在/ChkUpdate中发现子目录BizExpressWeb，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:36:37 [7312]Invalid: 在/ChkUpdate/BizExpressWeb中发现子目录mod，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:36:37 [7312]Error: 检查目录/ChkUpdate成功！ 文件个数：118 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:39 [7312]Error: 检查目录/Mail成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:43 [7312]Error: 检查目录/Netdata/Base成功！ 文件个数：27144 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:46 [7312]Error: 检查目录/Netdata/Item成功！ 文件个数：26720 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:48 [7312]Error: 检查目录/Netdata/Variable成功！ 文件个数：25782 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:49 [7312]Invalid: 获取服务器文件列表完成，共153794个文件！ at 193 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:52 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:55 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:36:58 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:01 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:04 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:07 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:10 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:13 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:16 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:19 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:22 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:25 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:25 [4172]Invalid: ******Enter MainFunc！****** at 63 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:26 [4172]Invalid: 开始获取服务器文件列表！ at 167 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:27 [4172]Error: 检查目录/0成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:27 [4172]Error: 检查目录/1成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:27 [4172]Error: 检查目录/100成功！ 文件个数：19 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:28 [4172]Error: 检查目录/2成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:28 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:29 [4172]Error: 检查目录/3成功！ 文件个数：7790 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:30 [4172]Error: 检查目录/4成功！ 文件个数：7788 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:30 [4172]Error: 检查目录/5成功！ 文件个数：27 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:30 [4172]Error: 检查目录/6成功！ 文件个数：1733 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:31 [4172]Error: 检查目录/7成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:31 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:34 [4172]Error: 检查目录/99成功！ 文件个数：25451 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:34 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:34 [4172]Error: 检查目录/CaiBian4.0/6成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:34 [4172]Error: 检查目录/CaiBian4.0/99成功！ 文件个数：66 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:35 [4172]Invalid: 在/ChkUpdate中发现子目录BizExpressWeb，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:37:35 [4172]Invalid: 在/ChkUpdate/BizExpressWeb中发现子目录mod，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:37:35 [4172]Error: 检查目录/ChkUpdate成功！ 文件个数：118 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:35 [4172]Error: 检查目录/Mail成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:37 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:38 [4172]Error: 检查目录/Netdata/Base成功！ 文件个数：27144 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:40 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:41 [4172]Error: 检查目录/Netdata/Item成功！ 文件个数：26720 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:43 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:44 [4172]Error: 检查目录/Netdata/Variable成功！ 文件个数：25782 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:44 [4172]Invalid: 获取服务器文件列表完成，共153794个文件！ at 193 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:46 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:47 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:49 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:50 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:52 [7312]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:53 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [5736]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [508]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [7176]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [7312]Invalid: 解析下载列表完成，ret:0, err:183！ at 247 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [7312]Invalid: 解析列表完成，共0个文件需要下载！ at 87 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [6964]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [7504]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [4952]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [4136]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [8076]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [5548]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:55 [7312]Invalid: 全部同步线程退出！ at 396 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:56 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:37:59 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:02 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:05 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:08 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:11 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:14 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:17 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:20 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:23 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:26 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:29 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:38:32 [4172]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:28 [1060]Invalid: ******Enter MainFunc！****** at 63 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:28 [1060]Invalid: 开始获取服务器文件列表！ at 167 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:35 [1060]Error: 检查目录/0成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:44 [1060]Error: 检查目录/1成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:45 [1060]Error: 检查目录/100成功！ 文件个数：19 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:49 [1060]Error: 检查目录/2成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:43:55 [1060]Error: 检查目录/3成功！ 文件个数：7790 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:07 [1060]Error: 检查目录/4成功！ 文件个数：7788 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:07 [1060]Error: 检查目录/5成功！ 文件个数：27 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:08 [1060]Error: 检查目录/6成功！ 文件个数：1733 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:13 [1060]Error: 检查目录/7成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:31 [1060]Error: 检查目录/99成功！ 文件个数：25451 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:34 [1060]Error: 检查目录/CaiBian4.0/6成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:35 [1060]Error: 检查目录/CaiBian4.0/99成功！ 文件个数：66 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:35 [1060]Invalid: 在/ChkUpdate中发现子目录BizExpressWeb，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:44:41 [1060]Invalid: 在/ChkUpdate/BizExpressWeb中发现子目录mod，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 16:44:45 [1060]Error: 检查目录/ChkUpdate成功！ 文件个数：118 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:44:45 [1060]Error: 检查目录/Mail成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:01 [1060]Error: 检查目录/Netdata/Base成功！ 文件个数：27144 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:30 [1060]Error: 检查目录/Netdata/Item成功！ 文件个数：26720 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:42 [1060]Error: 检查目录/Netdata/Variable成功！ 文件个数：25782 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:43 [1060]Invalid: 获取服务器文件列表完成，共153794个文件！ at 193 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:46 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:49 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:52 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:55 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:45:58 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:01 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:04 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:07 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:10 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:13 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:16 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:19 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:23 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:26 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:29 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:32 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:35 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:38 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:41 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:44 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:47 [1060]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [6752]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [6932]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [2344]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [1060]Invalid: 解析下载列表完成，ret:0, err:183！ at 247 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [1060]Invalid: 解析列表完成，共118个文件需要下载！ at 87 in ...ync\datasync\datasync.cpp
+02/19/14 16:46:48 [1060]Invalid: 根据文件数,更改重启线程数为5 at 97 in ...ync\datasync\datasync.cpp
+02/19/14 16:48:47 [7444]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:48:47 [6496]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:48:49 [7204]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:48:54 [5408]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:49:35 [7824]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 16:49:35 [1060]Invalid: 全部同步线程退出！ at 396 in ...ync\datasync\datasync.cpp
+02/19/14 17:11:58 [3728]Invalid: ******Enter MainFunc！****** at 63 in ...ync\datasync\datasync.cpp
+02/19/14 17:11:58 [3728]Invalid: 开始获取服务器文件列表！ at 167 in ...ync\datasync\datasync.cpp
+02/19/14 17:12:11 [3728]Error: 检查目录/0成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:12:19 [3728]Error: 检查目录/1成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:12:24 [3728]Error: 检查目录/100成功！ 文件个数：19 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:12:40 [3728]Error: 检查目录/2成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:12:51 [3728]Error: 检查目录/3成功！ 文件个数：7790 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:01 [3728]Error: 检查目录/4成功！ 文件个数：7788 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:02 [3728]Error: 检查目录/5成功！ 文件个数：27 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:05 [3728]Error: 检查目录/6成功！ 文件个数：1733 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:18 [3728]Error: 检查目录/7成功！ 文件个数：7787 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:52 [3728]Error: 检查目录/99成功！ 文件个数：25451 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:52 [3728]Error: 检查目录/CaiBian4.0/6成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:13:56 [3728]Error: 检查目录/CaiBian4.0/99成功！ 文件个数：66 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:01 [3728]Invalid: 在/ChkUpdate中发现子目录BizExpressWeb，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 17:14:03 [3728]Invalid: 在/ChkUpdate/BizExpressWeb中发现子目录mod，将遍历之！ at 80 in ...datasync\datasync\ftp.cpp
+02/19/14 17:14:04 [3728]Error: 检查目录/ChkUpdate成功！ 文件个数：118 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:05 [3728]Error: 检查目录/Mail成功！ 文件个数：4 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:23 [3728]Error: 检查目录/Netdata/Base成功！ 文件个数：27144 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:38 [3728]Error: 检查目录/Netdata/Item成功！ 文件个数：26720 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:54 [3728]Error: 检查目录/Netdata/Variable成功！ 文件个数：25782 at 184 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:55 [3728]Invalid: 获取服务器文件列表完成，共153794个文件！ at 193 in ...ync\datasync\datasync.cpp
+02/19/14 17:14:58 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:01 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:04 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:07 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:10 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:13 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:16 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:19 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:22 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:25 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:28 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:31 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:34 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:37 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:40 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:43 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:46 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:50 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:53 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:56 [3728]Invalid: 正在解析下载列表...！ at 243 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [3780]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [4072]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [5024]Invalid: 解析列表已空！ at 332 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [3728]Invalid: 解析下载列表完成，ret:0, err:183！ at 247 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [3728]Invalid: 解析列表完成，共118个文件需要下载！ at 87 in ...ync\datasync\datasync.cpp
+02/19/14 17:15:57 [3728]Invalid: 根据文件数,更改重启线程数为5 at 97 in ...ync\datasync\datasync.cpp
+02/19/14 17:16:46 [4708]Invalid: FTP下载错误 err=0, lasterr=0 :200 Type set to I
+227 Entering Passive Mode (219,133,55,115,11,111)
+213 237521
+150 Connection accepted
+ suminy1.mod, E:\root\iteminfoB\ChkUpdate\BizExpressWeb\mod\suminy1.mod at 161 in ...datasync\datasync\ftp.cpp
+02/19/14 17:16:46 [4708]Invalid: 连接被重置，结束当前线程! at 450 in ...ync\datasync\datasync.cpp
+02/19/14 17:17:00 [4204]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 17:17:08 [2364]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 17:17:18 [3052]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 17:17:30 [2056]Invalid: 要下载的文件列表已空！ at 358 in ...ync\datasync\datasync.cpp
+02/19/14 17:17:30 [3728]Invalid: 全部同步线程退出！ at 396 in ...ync\datasync\datasync.cpp
